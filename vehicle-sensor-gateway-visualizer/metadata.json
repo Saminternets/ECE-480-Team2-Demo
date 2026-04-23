@@ -1,0 +1,6 @@
+{
+  "name": "Vehicle Sensor Gateway Visualizer",
+  "description": "An interactive 3D tool for visualizing the architecture and data flow of a multimodal vehicle sensor gateway PCB.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
